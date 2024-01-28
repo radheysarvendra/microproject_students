@@ -36,19 +36,17 @@ DELETE
 RESET
 
 Illustrations
-![image](https://user-images.githubusercontent.com/84792843/221294311-7ab75f8c-d5ee-4fed-92df-43d504a15a65.png)
+![image](https://github.com/radheysarvendra/microproject_students/assets/118680969/ba2928c2-21c3-4093-8d28-455609cf1eb8)
 
-![image](https://user-images.githubusercontent.com/84792843/221294639-5f04555f-074d-40fd-8bb8-74aef42de642.png)
+![image](https://github.com/radheysarvendra/microproject_students/assets/118680969/43577856-fd83-4df9-962c-049578ef70e0)
 
-![image](https://user-images.githubusercontent.com/84792843/221294498-343226c6-f88d-4f85-92e7-f9342495cfba.png)
+![image](https://github.com/radheysarvendra/microproject_students/assets/118680969/59fa4618-1c7e-4194-8bbc-1251c9d2d644)
 
-![image](https://user-images.githubusercontent.com/84792843/221294735-851c5c8e-abef-4b72-9730-bf00620819ec.png)
 
-![image](https://user-images.githubusercontent.com/84792843/221294803-83985a1a-a70d-4483-b5ec-b98622f6aa59.png)
+![image](https://github.com/radheysarvendra/microproject_students/assets/118680969/fbc000d8-afbe-46e0-ab0d-c99948534bfb)
 
-![image](https://user-images.githubusercontent.com/84792843/221294891-97850c42-fa9f-4b36-bda3-bbc2dbb95223.png)
 
-![image](https://user-images.githubusercontent.com/84792843/221294929-b6813f59-5632-4d9f-8037-b619cc80dcc8.png)
+![image](https://github.com/radheysarvendra/microproject_students/assets/118680969/52b714fe-23c8-425c-8f75-b2361cd3b23a)
 
 
 Scope of functionalities : 
@@ -285,7 +283,6 @@ AJAX - Asynchronous JavaScript And XML.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to use JsonPowerDB in Web Pages
 
-https://drive.google.com/file/d/1e4VN4PAec-Y1iFsj0BN5j0pM7mfed0VQ/view?usp=sharing
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Creating a Web Project in NetBeans : -
