@@ -286,7 +286,7 @@ How to use JsonPowerDB in Web Pages
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Creating a Web Project in NetBeans : -
-![Screenshot (901)](https://user-images.githubusercontent.com/84792843/221233551-732712fd-daef-490f-87fe-107390152150.png)
+
 https://drive.google.com/file/d/1e9u2xj7IY7M2W5v7btigQDT7CofBLdlj/view?usp=sharing
 
 CODE - 
@@ -450,7 +450,7 @@ and open the template in the editor.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saving data in JPDB from HTML form :-
-![image](https://user-images.githubusercontent.com/84792843/221236356-22fa3e5d-9e1d-4b6e-bead-e28ee931f113.png)
+
 
 CODE --
 
